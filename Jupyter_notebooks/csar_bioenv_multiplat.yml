@@ -1,0 +1,12 @@
+name: bioenv
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - biopython
+  - pandas
+  - jupyterlab
+  - seaborn
+  - matplotlib
+  - scikit-learn
+prefix: /home/csar/miniconda3/envs/bioenv

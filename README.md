@@ -10,7 +10,7 @@
 <h4 align="center">
      Proyecto en construcción 
 </h4>
-- La etapa
+- La etapa 1 se encuentra con un avance de 80%.
 
 ## Funcionalidades
 
